@@ -1,1 +1,1 @@
-# Start learning react from a fun Seris n YT
+# Start learning react from a fun Series in YT
